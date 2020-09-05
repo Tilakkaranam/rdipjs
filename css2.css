@@ -1,0 +1,17 @@
+body {
+  width: 70%;
+  margin-left: 15%;
+}
+table {
+  text-align: left;
+}
+td {
+  padding: 10px;
+}
+.button {
+  text-align: center;
+}
+.button input {
+  width: 50%;
+  height: 30px;
+}
